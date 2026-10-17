@@ -1,0 +1,14 @@
+interface:
+  display_name: نگارش طبیعی و انسانی
+  short_description: حذف لحن مصنوعی و کلیشه‌ها از متن فارسی و انگلیسی
+  default_prompt: با $humanize-text این متن را طبیعی و روان بازنویسی کن؛ معنی، جزئیات
+    و لحن مناسب مخاطب را حفظ کن.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
