@@ -1,0 +1,64 @@
+{
+  "ok": false,
+  "strip": "creation/decoded/look-cardinals-v1.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [
+    "090 has 38 non-transparent pixels near its source slot edge",
+    "180 has 64 non-transparent pixels near its source slot edge"
+  ],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 212502,
+      "edge_pixels": 21,
+      "output": "creation/qa/cardinals-v1/000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1085,
+        725
+      ],
+      "used_pixels": 207153,
+      "edge_pixels": 38,
+      "output": "creation/qa/cardinals-v1/090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1085,
+        0,
+        1628,
+        725
+      ],
+      "used_pixels": 205201,
+      "edge_pixels": 64,
+      "output": "creation/qa/cardinals-v1/180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1628,
+        0,
+        2170,
+        725
+      ],
+      "used_pixels": 203259,
+      "edge_pixels": 18,
+      "output": "creation/qa/cardinals-v1/270.png"
+    }
+  ]
+}

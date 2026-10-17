@@ -1,0 +1,14 @@
+{
+  "id": "pet_6ad3c83a2c108191b72d04b73dabefb1",
+  "name": "لینو",
+  "description": "گربهٔ لینوکسی کنجکاو و دقیق، با شخصیت متخصص لینوکس: مدیریت سیستم، خط فرمان و Bash، شبکه، امنیت، سرورها، کانتینرها، کرنل و عیب‌یابی.",
+  "is_custom": true,
+  "is_active": true,
+  "sprite_version": 2,
+  "sha256": "8ec47312b0a88addf6b5cafa9523f786085540f805721028f76406e177e385ee",
+  "generation": "Built-in imagegen; deterministic bundled Pets pipeline",
+  "storage": "Git repository archive in pets/lino; original artifacts were created locally.",
+  "state_recorded_at": "2026-10-17",
+  "conversation_call_name": "لینو",
+  "capability_note": "Animated companion metadata does not add independent reasoning or wake-word behavior. The name is recognized in the originating conversation."
+}

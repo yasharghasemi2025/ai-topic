@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose projects right of chest center and visible muzzle turns right; B nose and muzzle project left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A raised muzzle and eye aim left of anchored torso; B nose and gaze aim right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A side-profile nose points left with eye on left-facing face; B corresponding profile points right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose extends to left silhouette, B nose extends to right silhouette."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A muzzle projects right and rightward eye is prominent; B lowered muzzle turns left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered nose sits right of head center; B lowered nose and eyes angle left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A chin and downcast face tilt toward right shoulder; B chin and face tilt toward left shoulder."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin is lifted and muzzle projects upward under raised eyes; B forehead dominates as nose and eyes lower toward chest."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A muzzle tilts upward with visible underside; B chin tucks and nose dips toward collar."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised nose and chin aim above horizon; B lowered eyelids and muzzle face toward lower right."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose and eye aim slightly above level with lifted muzzle; B nose and eye aim slightly below level and chin draws toward collar."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifted chin and upward eyes expose muzzle underside; B head pitches down with eyes and nose near chest."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose tilts up toward left with raised chin; B nose lowers toward left shoulder under downcast eyes."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A forehead pitches forward and muzzle drops toward left shoulder; B nose and eyes lift leftward above level."
+    }
+  ]
+}

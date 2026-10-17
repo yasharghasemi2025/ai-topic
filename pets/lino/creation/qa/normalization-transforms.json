@@ -1,0 +1,196 @@
+{
+  "target_eye_spacing": 34.544344042838006,
+  "target_face_center": 105.38060575635878,
+  "target_baseline": 200,
+  "per_row": [
+    {
+      "state": "idle",
+      "source_frame0_eye_centers": [
+        [
+          80.11864406779661,
+          66.51694915254237
+        ],
+        [
+          124.58333333333333,
+          66.97222222222223
+        ]
+      ],
+      "source_eye_spacing": 44.46468926553672,
+      "source_bottom": 200,
+      "scale": 0.776893859227131,
+      "translation": [
+        25.86475114906439,
+        44.6212281545738
+      ],
+      "reason": "One row-wide similarity transform matching frontal iris spacing and frame-0 baseline; other frames retain relative pose displacement."
+    },
+    {
+      "state": "running-right",
+      "source_frame0_eye_centers": [
+        [
+          145.38235294117646,
+          85.07352941176471
+        ],
+        [
+          153.27272727272728,
+          84.9090909090909
+        ]
+      ],
+      "source_eye_spacing": 7.890374331550817,
+      "source_bottom": 165,
+      "scale": 1.0,
+      "translation": [
+        0.0,
+        0.0
+      ],
+      "reason": "Profile eye projection is not frontal spacing; preserve matching locomotion pair and gait displacement. Visible single-eye height approximately 18 px, versus jumping 16 px."
+    },
+    {
+      "state": "running-left",
+      "source_frame0_eye_centers": [
+        [
+          37.666666666666664,
+          87.93333333333334
+        ],
+        [
+          45.891891891891895,
+          85.63513513513513
+        ]
+      ],
+      "source_eye_spacing": 8.22522522522523,
+      "source_bottom": 164,
+      "scale": 1.0,
+      "translation": [
+        0.0,
+        0.0
+      ],
+      "reason": "Profile eye projection is not frontal spacing; preserve matching locomotion pair and gait displacement. Visible single-eye height approximately 18 px, versus jumping 16 px."
+    },
+    {
+      "state": "waving",
+      "source_frame0_eye_centers": [
+        [
+          85.58823529411765,
+          64.83193277310924
+        ],
+        [
+          127.95762711864407,
+          66.51694915254237
+        ]
+      ],
+      "source_eye_spacing": 42.36939182452642,
+      "source_bottom": 201,
+      "scale": 0.8153136628890972,
+      "translation": [
+        18.327176117078807,
+        36.12195375929144
+      ],
+      "reason": "One row-wide similarity transform matching frontal iris spacing and frame-0 baseline; other frames retain relative pose displacement."
+    },
+    {
+      "state": "jumping",
+      "source_frame0_eye_centers": [
+        [
+          88.10843373493977,
+          103.20481927710843
+        ],
+        [
+          122.65277777777777,
+          104.26388888888889
+        ]
+      ],
+      "source_eye_spacing": 34.544344042838006,
+      "source_bottom": 200,
+      "scale": 1.0,
+      "translation": [
+        0.0,
+        0.0
+      ],
+      "reason": "Preserve airborne trajectory"
+    },
+    {
+      "state": "failed",
+      "source_frame0_eye_centers": [
+        [
+          65.93571428571428,
+          61.614285714285714
+        ],
+        [
+          113.94594594594595,
+          62.00675675675676
+        ]
+      ],
+      "source_eye_spacing": 48.01023166023167,
+      "source_bottom": 199,
+      "scale": 0.7195204615405373,
+      "translation": [
+        40.66633816007763,
+        56.81542815343309
+      ],
+      "reason": "One row-wide similarity transform matching frontal iris spacing and frame-0 baseline; other frames retain relative pose displacement."
+    },
+    {
+      "state": "waiting",
+      "source_frame0_eye_centers": [
+        [
+          83.57142857142857,
+          70.82142857142857
+        ],
+        [
+          126.48514851485149,
+          71.02970297029702
+        ]
+      ],
+      "source_eye_spacing": 42.91371994342292,
+      "source_bottom": 200,
+      "scale": 0.804972024992962,
+      "translation": [
+        20.835771646242222,
+        39.005595001407585
+      ],
+      "reason": "One row-wide similarity transform matching frontal iris spacing and frame-0 baseline; other frames retain relative pose displacement."
+    },
+    {
+      "state": "running",
+      "source_frame0_eye_centers": [
+        [
+          79.24657534246575,
+          78.24657534246575
+        ],
+        [
+          125.14285714285714,
+          80.21428571428571
+        ]
+      ],
+      "source_eye_spacing": 45.89628180039139,
+      "source_bottom": 199,
+      "scale": 0.7526610585379363,
+      "translation": [
+        28.46262245217318,
+        50.22044935095067
+      ],
+      "reason": "One row-wide similarity transform matching frontal iris spacing and frame-0 baseline; other frames retain relative pose displacement."
+    },
+    {
+      "state": "review",
+      "source_frame0_eye_centers": [
+        [
+          83.78571428571429,
+          66.74107142857143
+        ],
+        [
+          125.57142857142857,
+          67.98095238095237
+        ]
+      ],
+      "source_eye_spacing": 41.78571428571428,
+      "source_bottom": 199,
+      "scale": 0.8267022505978328,
+      "translation": [
+        18.84259516699278,
+        35.48625213103128
+      ],
+      "reason": "One row-wide similarity transform matching frontal iris spacing and frame-0 baseline; other frames retain relative pose displacement."
+    }
+  ]
+}
